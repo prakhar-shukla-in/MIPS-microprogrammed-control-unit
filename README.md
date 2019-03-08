@@ -5,7 +5,7 @@ Required project to complete advance compute architecture course in BITS Pilani 
 
 </pre>
 
-The FSA I followed is given below
+The FSA I followed can be found here
 ![FSA](https://drive.google.com/open?id=1PgbfNZOmHcznwHyCcWC-k-5UkdSxrWan)
 
 <pre>
